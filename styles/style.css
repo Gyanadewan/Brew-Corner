@@ -126,3 +126,31 @@
     border-radius: 6px;
     cursor: pointer;
 }
+
+.card-section{
+     background-color: #F1E7D8;
+}
+
+.card-container{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 16px;
+    padding: 8px;
+   
+}
+
+.card-item{
+        box-shadow: #FFFFFF;
+       padding: 8px;
+       border-radius: 8px;
+       background-color: #fff;
+      text-align: center;
+}
+
+.card-item span{
+    color: #E9B44C;
+}
+.card-head-text{
+    text-align: center;
+     padding-top: 8px;
+}
