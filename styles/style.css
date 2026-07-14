@@ -199,3 +199,41 @@
   padding: 4px;
   border-radius: 50%;
 }
+
+
+
+
+.opening-hours{
+    text-align: center;
+}
+.opening-hours h5{
+    margin-bottom: 5px;
+}
+
+.opening-hours h2{
+    margin-top: 0;
+}
+table{
+    width: 700px;
+    margin: 40px auto;
+    border-collapse: collapse;
+}
+
+th{
+    background-color: #2f241d;
+    color: #d4a017;
+    padding: 16px;
+    text-align: left;
+}
+
+td{
+    padding: 18px 16px;
+    border: 1px solid #666;
+    text-align: left;
+}
+
+table,
+th,
+td{
+    border: 1px solid #666;
+}
